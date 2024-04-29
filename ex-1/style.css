@@ -1,1 +1,41 @@
-/* Start coding here */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.contianer {
+  background-color: lightblue;
+  font-size: 24px;
+  padding: 10px;
+}
+
+.travel1 {
+  box-sizing: border-box;
+  border: 5px solid blue;
+  width: 700px;
+  height: 250px;
+  padding: 10px;
+  align-items: center;
+  margin: 10px;
+}
+.picture {
+  background-color: aqua;
+  width: 500px;
+  height: 100px;
+}
+
+.travel2 {
+  box-sizing: border-box;
+  border: 5px solid blue;
+  width: 700px;
+  height: 250px;
+  padding: 10px;
+  align-items: center;
+  margin: 10px;
+}
+
+.picture2 {
+  background-color: aqua;
+  width: 500px;
+  height: 100px;
+}
